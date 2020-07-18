@@ -569,6 +569,11 @@
     height: 280px;
     width: 280px;
   }
+  .mh-home .hero-img img {
+    height: 240px;
+    width: 240px;
+    
+  }
   .home-padding {
     padding: 60px 0;
   }
